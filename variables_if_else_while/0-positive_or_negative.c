@@ -2,20 +2,19 @@
 #include <stdlib.h>
 #include <time.h>
 
-/**main - replace numbers
+/**
+ * main - positive and negative
  *
  *Return: 0
  */
 int main(void)
 {
-int n;
+		int n;
 
-srand(time(0));
-
-n = rand() - RAND_MAX / 2;
-if (n < 0)
-
-	 printf("%i is negative\n", n);
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
+	if (n < 0)
+		printf("%i is negative\n", n);
 else
 
 	if (n == 0)
