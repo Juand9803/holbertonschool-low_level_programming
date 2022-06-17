@@ -4,12 +4,12 @@
 /**
  *main - number one
  *
- *more headers goes there
+ *Return: 0
  */
 
 int main(void)
 {
-		int n;
+		int n, l;
 
 		srand(time(0));
 
