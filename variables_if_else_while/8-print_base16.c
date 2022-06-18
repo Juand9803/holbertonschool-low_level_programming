@@ -11,7 +11,7 @@ int main(void)
 	char n;
 	char al;
 
-	for (n = '0' ; n <= '9' : n++)
+	for (n = '0' ; n <= '9' ; n++)
 	{
 		putchar(n);
 	}
