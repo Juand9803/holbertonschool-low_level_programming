@@ -5,7 +5,7 @@
  *Return: 0
  */
 
-inte main(void)
+int main(void)
 {
 	char la;
 
