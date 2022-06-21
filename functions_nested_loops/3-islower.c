@@ -2,7 +2,7 @@
 
 /**
  *_islower - cdb
- *
+ *@c: variable
  *Return: 1 if c is lowercase, 0 otherwise
  */
 int _slower(int c)
