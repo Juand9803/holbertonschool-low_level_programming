@@ -2,7 +2,7 @@
 
 /**
  *_isalpha - isletter
- *
+ *@c: variable
  *Return: 1 if c is letter case, 0 otherwise
  */
 int _isalpha(int c)
