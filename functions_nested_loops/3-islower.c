@@ -3,7 +3,7 @@
 /**
  *_islower - cdb
  *
- *Return: 1 id c is lowercase, 0 otherwise
+ *Return: 1 if c is lowercase, 0 otherwise
  */
 int _slower(int c)
 {
