@@ -13,6 +13,16 @@ while (n != 98)
 		printf("%i", n);
 		if (n != 98)
 		{
+			n++;
+			printf(",");
+			printf(" ");
+		}
+	}
+	else if (n > 98)
+	{
+		printf("%i", n);
+		if (n != 98)
+		{
 			n--;
 			printf(",");
 			printf(" ");
